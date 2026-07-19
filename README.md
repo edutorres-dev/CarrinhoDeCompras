@@ -575,7 +575,7 @@ Pagamento realizado com sucesso!
 
 ## 👤 Autor
 
-**Eduardo Torres**  
+**Eduardo Torres Do Ó**  
 Desenvolvedor Full Stack
 
 - Email: edutorres_dev@hotmail.com
